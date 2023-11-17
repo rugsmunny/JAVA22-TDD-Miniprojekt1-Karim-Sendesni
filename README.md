@@ -1,4 +1,4 @@
-#JAVA22-TDD-Miniprojekt1-Karim-Sendesni
+JAVA22-TDD-Miniprojekt1-Karim-Sendesni
 
     First mini project in the TDD course. The assignment was to create all necessary tests for the code provided by our educator.
 
@@ -14,7 +14,7 @@
     
     Making that decision was the most difficult part."
 
-#Test Overview 
+Test Overview 
 
   class ValidValueTests:
   
