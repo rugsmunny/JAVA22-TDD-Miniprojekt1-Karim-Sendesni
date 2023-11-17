@@ -4,7 +4,7 @@
 
   Question:
   
-    * "What tests might be necessary/important to include, and what was the most challenging part of this project?" *
+* "What tests might be necessary/important to include, and what was the most challenging part of this project?" *
 
   Answer:
   
