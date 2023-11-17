@@ -40,3 +40,6 @@ _First mini project in the TDD course. The assignment was to create all necessar
     testNegativeLengths(): Tests the constructor with negative values (-1, -2, -3).
     testInvalidStringConstructor(): Tests the constructor with invalid data types (a, b, c).
     testEmptyConstructor(): Tests the constructor with empty input.
+
+# Test result
+    ![printscreen of test result](tddMiniP1.png)
