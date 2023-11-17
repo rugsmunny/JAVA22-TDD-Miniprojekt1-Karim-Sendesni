@@ -43,4 +43,4 @@ _First mini project in the TDD course. The assignment was to create all necessar
 
 # Test result
 
-    ![printscreen of test result](https://github.com/rugsmunny/JAVA22-TDD-Miniprojekt1-Karim-Sendesni/assets/49041363/9394e829-03b1-44c0-b7d4-8f0224ddbf8a)
+  ![printscreen of test result](https://github.com/rugsmunny/JAVA22-TDD-Miniprojekt1-Karim-Sendesni/assets/49041363/9394e829-03b1-44c0-b7d4-8f0224ddbf8a)
