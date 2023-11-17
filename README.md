@@ -2,11 +2,11 @@
 
 _First mini project in the TDD course. The assignment was to create all necessary tests for the code provided by our educator._
 
-Question:
+# Question:
   
   _"What tests might be necessary/important to include, and what was the most challenging part of this project?"_
 
-Answer:
+# Answer:
   
   _"The most challenging part was not so much writing the tests, but rather determining which tests were essential. 
   It's possible to test every minute detail, even create a single test that covers everything. 
@@ -15,7 +15,7 @@ Answer:
   _Making that decision was the most difficult part."_
   
   
-Test Overview 
+# Test Overview 
 
   class ValidValueTests:
   
