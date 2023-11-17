@@ -8,7 +8,7 @@ _First mini project in the TDD course. The assignment was to create all necessar
 
 # Answer:
   
-  _"The most challenging part was not so much writing the tests, but rather determining which tests were essential. 
+  _"The most challenging part was not so much writing 'tests', but rather determining which tests were essential. 
   It's possible to test every minute detail, even create a single test that covers everything. 
   However, striking the right balance without having super test classes or methods was the real challenge._
   
