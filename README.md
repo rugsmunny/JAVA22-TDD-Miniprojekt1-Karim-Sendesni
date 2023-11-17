@@ -4,15 +4,15 @@
 
   Question:
   
-    "What tests might be necessary/important to include, and what was the most challenging part of this project?"
+    *"What tests might be necessary/important to include, and what was the most challenging part of this project?"*
 
   Answer:
   
-    "The most challenging part was not so much writing the tests, but rather determining which tests were essential. 
+    *"The most challenging part was not so much writing the tests, but rather determining which tests were essential. 
     It's possible to test every minute detail, even create a single test that covers everything. 
     However, striking the right balance without having super test classes or methods was the real challenge. 
     
-    Making that decision was the most difficult part."
+    Making that decision was the most difficult part."*
 
 Test Overview 
 
