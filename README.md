@@ -1,5 +1,6 @@
 #JAVA22-TDD-Miniprojekt1-Karim-Sendesni
-  First mini project in the TDD course. The assignment was to create all necessary tests for the code provided by our educator.
+  
+  -  First mini project in the TDD course. The assignment was to create all necessary tests for the code provided by our educator.
 
   Question:
   - "What tests might be necessary/important to include, and what was the most challenging part of this project?"
